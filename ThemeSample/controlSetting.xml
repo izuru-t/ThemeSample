@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Themes>
+    <Theme Name="BlueTheme">
+      <commonSettings>
+        <Setting Name="Font" FontSize="9" FontFamily="Meiryo UI" FontStyle="Regular" />
+        <Setting Name="Color" BGColor="#4444FF" />
+      </commonSettings>
+      <formSettings>
+      </formSettings>
+      <labelSettings>
+        <Setting Name="Color" ForeColor="#FFFFFF" />
+        <Setting Name="Style" FlatStyle="Flat" BorderStyle="Fixed3D" />
+      </labelSettings>
+      <buttonSettings>
+        <Setting Name="Style" FlatStyle="Flat" BorderColor="#000000" BorderSize="2" />
+        <Setting Name="Color" ForeColor="#BBBBBB" />
+      </buttonSettings>
+    </Theme>
+  </Themes>
+</root>
